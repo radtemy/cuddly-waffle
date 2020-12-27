@@ -13,7 +13,7 @@ Syntax highlighted code block
 
 # Header 1
 Test
-## Header 2
+Header 2
 Test
 ### Header 3
 Test
