@@ -4,6 +4,8 @@ You can, HALLO; use the [editor on GitHub](https://github.com/radtemy/cuddly-waf
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
