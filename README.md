@@ -6,19 +6,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-![ ] this is an incomplete item
-![ ] this is an incomplete item
-[ ] this is an incomplete item
-[ ] this is an incomplete item
-[ ] this is an incomplete item
-[ ] this is an incomplete item
-[ ] this is an incomplete item
-[ ] this is an incomplete item
-[ ] this is an incomplete item
-[ ] this is an incomplete item
-[ ] this is an incomplete item
-[ ] this is an incomplete item
-[ ] this is an incomplete item
 [ ] this is an incomplete item
 
 ### Markdown
@@ -40,6 +27,8 @@ Test
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 1. Numbered
 2. List
+* Item 1
+* Item 2
 
 **Bold** and _Italic_ and `Code` text
 
