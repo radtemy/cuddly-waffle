@@ -6,8 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-[ ] this is an incomplete item
-[ ] this is an incomplete item
+![ ] this is an incomplete item
+![ ] this is an incomplete item
 [ ] this is an incomplete item
 [ ] this is an incomplete item
 [ ] this is an incomplete item
